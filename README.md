@@ -1,2 +1,1 @@
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=tgeruzov&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tgeruzov&theme=dark&hide_border=true)
